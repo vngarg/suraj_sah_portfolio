@@ -1,0 +1,1 @@
+document.getElementById=('love').innerHTML="i love you";

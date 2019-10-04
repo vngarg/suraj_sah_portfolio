@@ -1,0 +1,58 @@
+body{
+    font-family: f 'Chilanka', cursive;
+    font-weight: 300;
+    color: white;
+    height:98vh;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.1)),url(building.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+ 
+}
+.hero h1
+{
+    position: absolute;
+    left: 23%;
+}
+
+img
+{
+    height: 300px;
+    width: 20%;
+    margin-top:6%;
+    border-radius: 10%;
+    border: 5px solid;
+}
+.name
+{
+    margin-left: 2%;
+    
+}
+
+ul
+{
+    list-style-type: none;
+}
+.item
+{
+    margin-left: 5%;
+}
+.text
+{
+    position: absolute;
+    top:11%;
+    left:23%;
+    width: 60%;
+    text-align: left;
+    
+}
+.skill
+{
+    position: absolute;
+    top:60%;
+    left:25%;
+}
+.skill:hover
+{
+    color:darkgreen;
+}
